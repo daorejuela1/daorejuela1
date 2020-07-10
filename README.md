@@ -1,4 +1,4 @@
-### Hi there 👋 I'm David Orejuela an Electronic Engineer & Software Developer, lifelong learner 👯 I’m looking to collaborate on technology that helps people, 💬 Ask me about: Algorithms, Data structures, Memory Management, Bash commands, Low level & Pythonic ways of programming.
+# Hi there 👋 I'm David Orejuela an Electronic Engineer & Software Developer, lifelong learner 👯 I’m looking to collaborate on technology that helps people, 💬 Ask me about: Algorithms, Data structures, Memory Management, Bash commands, Low level & Pythonic ways of programming.
 
 ## Currently doing:
 
