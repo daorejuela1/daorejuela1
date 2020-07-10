@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm David Orejuela an Electronic Engineer & Software Developer, lifelong learner 👯 I’m looking to collaborate on technology that helps people, 💬 Ask me about: Algorithms, Data structures, Memory Management, Bash commands, Low level & Pythonic ways of programming.
 
-## Reach me on
+# I'm actually learning Django and creating JetBrain projects
+
+# Reach me on
 
 [Twitter](https://twitter.com/DavidOrejuela14)
 
