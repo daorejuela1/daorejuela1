@@ -2,7 +2,7 @@
 
 ## Currently doing:
 
-### Learning Django and creating JetBrain projects
+### + Learning Django and creating JetBrain projects
 
 ## Reach me on
 
